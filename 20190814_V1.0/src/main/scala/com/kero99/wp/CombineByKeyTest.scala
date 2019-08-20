@@ -25,7 +25,7 @@ object CombineByKeyTest extends WpApp {
 //  r2.foreach(println)
 
   //求admin和root用户每一科的总成绩和平均成绩，每个科目的合格率和总合格率
-  //统计成绩最好的一次考试日期，全部合格的所有日期。
+  //统计成绩最好的一次考试日期
   /**
     * admin,2018/10/01,math,30
     * admin,2018/10/02,math,55
